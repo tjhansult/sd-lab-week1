@@ -14,4 +14,7 @@ public class SimpleBillPrinter {
     public static void test(){
         System.out.println("This works");
     }
+    public static void gracjan(){
+
+    }
 }
