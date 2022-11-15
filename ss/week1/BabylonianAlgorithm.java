@@ -22,6 +22,7 @@ public class BabylonianAlgorithm {
             guess = (guess + r) / 2;
         }
         System.out.println(String.format("%.2f",guess));
+        System.out.println("Hello");
         return String.format("%.2f",guess);
     }
 }
